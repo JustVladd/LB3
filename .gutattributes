@@ -1,1 +1,7 @@
+git init
+git add.
+git commit -m "first commit"
+git branch -M main
+git remote add Lab3 https://github.com/JustVladd/Lab3.git
+git push -u Lab3 main 
 
